@@ -1,8 +1,8 @@
 ibejs - Identity Based Encryption Javascript library.  
 ===
 
-0. the ibe_extract.py depends on ibe_extract.js and node.js
-install node.js before use it.
+0. dependencies
+install node.js before run it.
 
 1. Generating of Secret Key
 //code
