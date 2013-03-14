@@ -28,7 +28,7 @@ enc_msg=ibe_encrypt("the message user a wanna send to UserB","UserB@gmail.com")
 msg = ibe_decrypt(enc_msg,secretKeyOfUserB)
 6. UserB are able to read msg from UserA now
 
-3. About the random oracles
+About the random oracles
 ---
 Boneh-Franklin IBE scheme supposes two hash function is random oracles
 here SHA512 is used, SHA512's first 160 bits is choosen.
